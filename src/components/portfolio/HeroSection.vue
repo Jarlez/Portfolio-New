@@ -1,5 +1,5 @@
 <template>
-  <section id="home" class="hero-section flex column">
+  <section id="home" class="hero-section flex column " :style="{ backgroundImage: `url(${heroBg})` }">
     <div class="col flex flex-center column text-center">
       <div class="text-h4 text-primary text-weight-bold" data-aos="fade-up" data-aos-delay="0">
         PORTFÓLIO
@@ -77,12 +77,13 @@
 </template>
 
 <script setup>
+import heroBg from '/img/planodefundo.png'
+
+
 </script>
 
 <style scoped lang="scss">
 .hero-section {
-  background: url("/img/planodefundo.png") right center / cover
-    no-repeat;
   min-height: 100vh;
   background-size: cover;
   background-position: center;
