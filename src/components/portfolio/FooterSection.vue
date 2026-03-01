@@ -40,17 +40,13 @@
 <script setup>
 import { computed } from "vue";
 import logoJs from "src/public/img/JSlogo.png";
-import githubIcon from "src/public/img/svg/githubIcon.svg";
-import linkedinIcon from "src/public/img/svg/linkedinIcon.svg";
-import behanceIcon from "src/public/img/svg/behanceIcon.svg";
-import skypeFooterIcon from "src/public/img/svg/skypeFooterIcon.svg";
 
 const currentYear = computed(() => new Date().getFullYear());
 
 const socialLinks = [
-  { label: "GitHub", href: "https://github.com/Jarlez", icon: githubIcon },
-  { label: "LinkedIn", href: "https://www.linkedin.com/in/jarlessayhare7/", icon: linkedinIcon },
-  { label: "Behance", href: "https://www.behance.net/jarlessayhare1", icon: behanceIcon },
+  { label: "GitHub", href: "https://github.com/Jarlez", icon: "/img/svg/githubIcon.svg" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/jarlessayhare7/", icon: "/img/svg/linkedinIcon.svg" },
+  { label: "Behance", href: "https://www.behance.net/jarlessayhare1", icon: "/img/svg/behanceIcon.svg" },
 ];
 </script>
 

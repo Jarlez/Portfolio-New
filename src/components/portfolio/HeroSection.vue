@@ -25,7 +25,7 @@
       </div>
     </div>
     <div class="row q-gutter-x-xl justify-center q-pb-xl hero-social" data-aos="fade-up" data-aos-delay="400">
-      <div
+      <a
         href="https://github.com/Jarlez"
         target="_blank"
         rel="noopener noreferrer"
@@ -34,10 +34,10 @@
       >
         <span
           class="hero-social-icon"
-          :style="{ '--icon': `url(${githubIcon})` }"
+          style="--icon: url(/img/svg/githubIcon.svg)"
         />
-      </div>
-      <div
+      </a>
+      <a
         href="https://www.linkedin.com/in/jarlessayhare7/"
         target="_blank"
         rel="noopener noreferrer"
@@ -46,10 +46,10 @@
       >
         <span
           class="hero-social-icon"
-          :style="{ '--icon': `url(${linkedinIcon})` }"
+          style="--icon: url(/img/svg/linkedinIcon.svg)"
         />
-      </div>
-      <div
+      </a>
+      <a
         href="https://www.behance.net/jarlessayhare1"
         target="_blank"
         rel="noopener noreferrer"
@@ -58,9 +58,9 @@
       >
         <span
           class="hero-social-icon"
-          :style="{ '--icon': `url(${behanceIcon})` }"
+          style="--icon: url(/img/svg/behanceIcon.svg)"
         />
-      </div>
+      </a>
     </div>
     <q-page-sticky position="bottom-right" :offset="[18, 18]" class="float-top-btn">
       <q-btn
@@ -77,9 +77,6 @@
 </template>
 
 <script setup>
-import githubIcon from 'src/public/img/svg/githubIcon.svg'
-import linkedinIcon from 'src/public/img/svg/linkedinIcon.svg'
-import behanceIcon from 'src/public/img/svg/behanceIcon.svg'
 </script>
 
 <style scoped lang="scss">
