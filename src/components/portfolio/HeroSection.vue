@@ -77,8 +77,8 @@
 </template>
 
 <script setup>
-import heroBg from '/img/planodefundo.webp'
 
+import heroBg from 'src/public/img/planodefundo.webp'
 
 </script>
 
