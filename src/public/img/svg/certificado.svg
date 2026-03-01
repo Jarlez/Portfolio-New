@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 26 19 C 26 21.208984 24.208984 23 22 23 C 19.791016 23 18 21.208984 18 19 C 18 16.791016 19.791016 15 22 15 C 24.208984 15 26 16.791016 26 19 Z M 26 19 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 25 22 L 25 31 L 22 30 L 19 31 L 19 22 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 7 11 L 18 11 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 7 15 L 12 15 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 19 26 L 3 26 L 3 6 L 29 6 L 29 26 L 25 26 " transform="matrix(2,0,0,2,0,0)"/>
+</g>
+</svg>

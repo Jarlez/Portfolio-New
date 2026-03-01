@@ -1,0 +1,24 @@
+{
+  "name": "portfolionew",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.17.0",
+    "aos": "^2.0.4",
+    "quasar": "^2.14.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.0",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "sass": "^1.69.0",
+    "vite": "^5.0.0"
+  }
+}
