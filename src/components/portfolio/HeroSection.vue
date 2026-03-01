@@ -77,7 +77,7 @@
 </template>
 
 <script setup>
-import heroBg from '/img/planodefundo.png'
+import heroBg from '/img/planodefundo.webp'
 
 
 </script>
@@ -87,7 +87,6 @@ import heroBg from '/img/planodefundo.png'
   min-height: 100vh;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
 }
 
 /* Ícones como máscara: uma imagem (branca), cor muda no hover com CSS */
