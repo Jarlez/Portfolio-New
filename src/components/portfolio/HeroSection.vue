@@ -84,7 +84,7 @@ import behanceIcon from 'src/public/img/svg/behanceIcon.svg'
 
 <style scoped lang="scss">
 .hero-section {
-  background: url("src/public/img/planodefundo.png") right center / cover
+  background: url("/img/planodefundo.png") right center / cover
     no-repeat;
   min-height: 100vh;
   background-size: cover;

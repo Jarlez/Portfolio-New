@@ -10,7 +10,7 @@
       </div>
       <div class="row items-center q-col-gutter-xl justify-center q-my-xl">
         <div class="col-12 col-md-5 flex justify-center" data-aos="fade-right">
-          <q-img src="src/public/img/profile.png" alt="Jarles Sayhare" />
+          <q-img src="/img/profile.png" alt="Jarles Sayhare" />
         </div>
         <div class="col-12 col-md-6" data-aos="fade-left">
           <div class="text-h5 text-weight-bold text-primary q-mb-lg">Quem sou?</div>
@@ -26,7 +26,7 @@
             no-caps
             rounded
             class="q-mt-lg q-px-lg"
-            href="src/public/download/jarles-curriculo.pdf"
+            href="/download/jarles-curriculo.pdf"
             target="_blank"
             rel="noopener noreferrer"
             icon="description"
